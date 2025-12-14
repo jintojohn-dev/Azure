@@ -1,0 +1,17 @@
+﻿{
+  "AzureAd": {
+    "Instance": "https://login.microsoftonline.com/",
+    "TenantId": "057d9269-489a-4ecf-93d3-bba0e84090e2",
+    "ClientId": "5ba6e2df-7f84-462e-b9da-4bbc225c6d7a",
+    "ClientSecret": "6O18Q~aWaypds2TKdVq-svAsG3VETziGnJBNOaTV",
+    "CallbackPath": "/signin-oidc",
+    "SignedOutCallbackPath": "/signout-oidc"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*"
+}
