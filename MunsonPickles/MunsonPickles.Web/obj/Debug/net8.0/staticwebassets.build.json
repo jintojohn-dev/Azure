@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vdfPxXZ40HKZPzShGpdwFmkdz41rzr64yB2BidTl8aU=",
+  "Hash": "JIP+DgsIAJEthUBe9CEJ4xd7eEOiCDgkGBfHsFqkdFQ=",
   "Source": "MunsonPickles.Web",
   "BasePath": "_content/MunsonPickles.Web",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "MunsonPickles.Web\\wwwroot",
       "Source": "MunsonPickles.Web",
-      "ContentRoot": "C:\\Jinto\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\",
       "BasePath": "_content/MunsonPickles.Web",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Jinto\\Azure\\MunsonPickles\\MunsonPickles.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MunsonPickles.Web.styles.css",
+      "Identity": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MunsonPickles.Web.styles.css",
       "SourceId": "MunsonPickles.Web",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Jinto\\Azure\\MunsonPickles\\MunsonPickles.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/MunsonPickles.Web",
       "RelativePath": "MunsonPickles.Web.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Jinto\\Azure\\MunsonPickles\\MunsonPickles.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MunsonPickles.Web.styles.css"
+      "OriginalItemSpec": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\MunsonPickles.Web.styles.css"
     },
     {
-      "Identity": "C:\\Jinto\\Azure\\MunsonPickles\\MunsonPickles.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MunsonPickles.Web.bundle.scp.css",
+      "Identity": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MunsonPickles.Web.bundle.scp.css",
       "SourceId": "MunsonPickles.Web",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Jinto\\Azure\\MunsonPickles\\MunsonPickles.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/MunsonPickles.Web",
       "RelativePath": "MunsonPickles.Web.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Jinto\\Azure\\MunsonPickles\\MunsonPickles.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MunsonPickles.Web.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MunsonPickles.Web.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Jinto\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "MunsonPickles.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Jinto\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\",
       "BasePath": "_content/MunsonPickles.Web",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Jinto\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "MunsonPickles.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Jinto\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\",
       "BasePath": "_content/MunsonPickles.Web",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Jinto\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "MunsonPickles.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Jinto\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\",
       "BasePath": "_content/MunsonPickles.Web",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Jinto\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "MunsonPickles.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Jinto\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\",
       "BasePath": "_content/MunsonPickles.Web",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Jinto\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "MunsonPickles.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Jinto\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\",
       "BasePath": "_content/MunsonPickles.Web",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Jinto\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "MunsonPickles.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Jinto\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\",
       "BasePath": "_content/MunsonPickles.Web",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Jinto\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "MunsonPickles.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Jinto\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\",
       "BasePath": "_content/MunsonPickles.Web",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Jinto\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "MunsonPickles.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Jinto\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\",
       "BasePath": "_content/MunsonPickles.Web",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Jinto\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "MunsonPickles.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Jinto\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\",
       "BasePath": "_content/MunsonPickles.Web",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Jinto\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "MunsonPickles.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Jinto\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\",
       "BasePath": "_content/MunsonPickles.Web",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Jinto\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "MunsonPickles.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Jinto\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\",
       "BasePath": "_content/MunsonPickles.Web",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Jinto\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\css\\site.css",
       "SourceId": "MunsonPickles.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Jinto\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\",
       "BasePath": "_content/MunsonPickles.Web",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Jinto\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\favicon.png",
+      "Identity": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\favicon.png",
       "SourceId": "MunsonPickles.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Jinto\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\wwwroot\\",
       "BasePath": "_content/MunsonPickles.Web",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
