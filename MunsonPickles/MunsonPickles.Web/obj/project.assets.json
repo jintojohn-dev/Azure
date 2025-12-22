@@ -1751,6 +1751,20 @@
             "rid": "win"
           }
         }
+      },
+      "MunsonPickles.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Azure.Identity": "1.17.1",
+          "System.Drawing.Common": "10.0.1"
+        },
+        "compile": {
+          "bin/placeholder/MunsonPickles.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MunsonPickles.Shared.dll": {}
+        }
       }
     }
   },
@@ -4931,6 +4945,11 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "MunsonPickles.Shared/1.0.0": {
+      "type": "project",
+      "path": "../MunsonPickles.Shared/MunsonPickles.Shared.csproj",
+      "msbuildProject": "../MunsonPickles.Shared/MunsonPickles.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4943,6 +4962,7 @@
       "Microsoft.Identity.Web >= 4.1.1",
       "Microsoft.Identity.Web.UI >= 4.1.1",
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.23.0",
+      "MunsonPickles.Shared >= 1.0.0",
       "System.Drawing.Common >= 10.0.1"
     ]
   },
@@ -4977,7 +4997,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Shared\\MunsonPickles.Shared.csproj": {
+              "projectPath": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Shared\\MunsonPickles.Shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

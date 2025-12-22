@@ -205,3 +205,5 @@ C:\Jinto\Azure\Azure\MunsonPickles\MunsonPickles.Web\obj\Debug\net8.0\ref\Munson
 C:\Jinto\Azure\Azure\MunsonPickles\MunsonPickles.Web\bin\Debug\net8.0\System.Private.Windows.Core.dll
 C:\Jinto\Azure\Azure\MunsonPickles\MunsonPickles.Web\bin\Debug\net8.0\System.Private.Windows.GdiPlus.dll
 C:\Jinto\Azure\Azure\MunsonPickles\MunsonPickles.Web\bin\Debug\net8.0\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Jinto\Azure\Azure\MunsonPickles\MunsonPickles.Web\bin\Debug\net8.0\MunsonPickles.Shared.dll
+C:\Jinto\Azure\Azure\MunsonPickles\MunsonPickles.Web\bin\Debug\net8.0\MunsonPickles.Shared.pdb

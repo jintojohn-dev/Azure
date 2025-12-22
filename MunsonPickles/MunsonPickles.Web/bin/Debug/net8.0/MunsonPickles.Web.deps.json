@@ -16,6 +16,7 @@
           "Microsoft.Identity.Web": "4.1.1",
           "Microsoft.Identity.Web.UI": "4.1.1",
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.23.0",
+          "MunsonPickles.Shared": "1.0.0",
           "System.Drawing.Common": "10.0.1"
         },
         "runtime": {
@@ -965,6 +966,18 @@
             "fileVersion": "5.0.20.51904"
           }
         }
+      },
+      "MunsonPickles.Shared/1.0.0": {
+        "dependencies": {
+          "Azure.Identity": "1.17.1",
+          "System.Drawing.Common": "10.0.1"
+        },
+        "runtime": {
+          "MunsonPickles.Shared.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -1673,6 +1686,11 @@
       "sha512": "sha512-c1ho9WU9ZxMZawML+ssPKZfdnrg/OjR3pe0m9v8230z3acqphwvPJqzAkH54xRYm5ntZHGG1EPP3sux9H3qSPg==",
       "path": "system.windows.extensions/5.0.0",
       "hashPath": "system.windows.extensions.5.0.0.nupkg.sha512"
+    },
+    "MunsonPickles.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

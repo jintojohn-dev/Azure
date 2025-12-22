@@ -4,6 +4,80 @@
     "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\MunsonPickles.Web.csproj": {}
   },
   "projects": {
+    "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Shared\\MunsonPickles.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Shared\\MunsonPickles.Shared.csproj",
+        "projectName": "MunsonPickles.Shared",
+        "projectPath": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Shared\\MunsonPickles.Shared.csproj",
+        "packagesPath": "C:\\Users\\JJ\\.nuget\\packages\\",
+        "outputPath": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\JJ\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Azure.Identity": {
+              "target": "Package",
+              "version": "[1.17.1, )"
+            },
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\8.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
     "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\MunsonPickles.Web.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -31,7 +105,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Shared\\MunsonPickles.Shared.csproj": {
+                "projectPath": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Shared\\MunsonPickles.Shared.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
