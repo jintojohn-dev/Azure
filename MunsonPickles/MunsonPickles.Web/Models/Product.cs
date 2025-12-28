@@ -8,4 +8,5 @@ public class Product
     public string? PhotoUrl { get; set; }
     public ProductType? ProductType { get; set; }
     public ICollection<Review>? Reviews { get; set; }
+
 }
