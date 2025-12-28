@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace MunsonPickles.Shared.Models;
+﻿namespace MunsonPickles.Shared.Models;
 
 public class Product
 {
@@ -14,4 +8,5 @@ public class Product
     public string? PhotoUrl { get; set; }
     public ProductType? ProductType { get; set; }
     public ICollection<Review>? Reviews { get; set; }
+
 }
