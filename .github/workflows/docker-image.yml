@@ -25,4 +25,4 @@ jobs:
     - name: "Build and Push Container Image"
       run: |
         docker build -f ./MunsonPickles.Api/Dockerfile -t ${{ secrets.ACR_LOGIN_SERVER }}/MunsonPickles/MunsonPickles.Api:latest .
-        docker push ${{ secrets.ACR_LOGIN_SERVER }}/MunsonPickles/MunsonPickles.Api:latest .
+        docker push ${{ secrets.ACR_LOGIN_SERVER }}/MunsonPickles/MunsonPickles.Api:latest
