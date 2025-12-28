@@ -9,4 +9,6 @@ public class Product
     public ProductType? ProductType { get; set; }
     public ICollection<Review>? Reviews { get; set; }
 
+
+
 }
