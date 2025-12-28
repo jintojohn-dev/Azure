@@ -3,6 +3,25 @@
   "WorkspaceRootPath": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{47E97C90-DA6C-AE4B-517A-48E815F341E7}|MunsonPickles.Api\\MunsonPickles.Api.csproj|c:\\jinto\\azure\\azure\\munsonpickles\\munsonpickles.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{47E97C90-DA6C-AE4B-517A-48E815F341E7}|MunsonPickles.Api\\MunsonPickles.Api.csproj|solutionrelative:munsonpickles.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A12EB21A-BF3C-49F0-9263-9F9C4607A539}|MunsonPickles.Web\\MunsonPickles.Web.csproj|c:\\jinto\\azure\\azure\\munsonpickles\\munsonpickles.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A12EB21A-BF3C-49F0-9263-9F9C4607A539}|MunsonPickles.Web\\MunsonPickles.Web.csproj|solutionrelative:munsonpickles.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\JJ\\AppData\\Roaming\\Microsoft\\UserSecrets\\c743a913-08e5-4a36-aa09-921fabc6c6f1\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47E97C90-DA6C-AE4B-517A-48E815F341E7}|MunsonPickles.Api\\MunsonPickles.Api.csproj|c:\\jinto\\azure\\azure\\munsonpickles\\munsonpickles.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{47E97C90-DA6C-AE4B-517A-48E815F341E7}|MunsonPickles.Api\\MunsonPickles.Api.csproj|solutionrelative:munsonpickles.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A12EB21A-BF3C-49F0-9263-9F9C4607A539}|MunsonPickles.Web\\MunsonPickles.Web.csproj|c:\\jinto\\azure\\azure\\munsonpickles\\munsonpickles.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A12EB21A-BF3C-49F0-9263-9F9C4607A539}|MunsonPickles.Web\\MunsonPickles.Web.csproj|solutionrelative:munsonpickles.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{47E97C90-DA6C-AE4B-517A-48E815F341E7}|MunsonPickles.Api\\MunsonPickles.Api.csproj|c:\\jinto\\azure\\azure\\munsonpickles\\munsonpickles.api\\data\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47E97C90-DA6C-AE4B-517A-48E815F341E7}|MunsonPickles.Api\\MunsonPickles.Api.csproj|solutionrelative:munsonpickles.api\\data\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,10 +42,6 @@
       "RelativeMoniker": "D:0:0:{A12EB21A-BF3C-49F0-9263-9F9C4607A539}|MunsonPickles.Web\\MunsonPickles.Web.csproj|solutionrelative:munsonpickles.web\\shared\\logindisplay.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A12EB21A-BF3C-49F0-9263-9F9C4607A539}|MunsonPickles.Web\\MunsonPickles.Web.csproj|c:\\jinto\\azure\\azure\\munsonpickles\\munsonpickles.web\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A12EB21A-BF3C-49F0-9263-9F9C4607A539}|MunsonPickles.Web\\MunsonPickles.Web.csproj|solutionrelative:munsonpickles.web\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2E69693D-3B0D-CB2D-1A89-FF0A336BF3AF}|MunsonPickles.Shared\\MunsonPickles.Shared.csproj|c:\\jinto\\azure\\azure\\munsonpickles\\munsonpickles.shared\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E69693D-3B0D-CB2D-1A89-FF0A336BF3AF}|MunsonPickles.Shared\\MunsonPickles.Shared.csproj|solutionrelative:munsonpickles.shared\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -35,30 +50,11 @@
       "RelativeMoniker": "D:0:0:{A12EB21A-BF3C-49F0-9263-9F9C4607A539}|MunsonPickles.Web\\MunsonPickles.Web.csproj|solutionrelative:munsonpickles.web\\munsonpickles.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47E97C90-DA6C-AE4B-517A-48E815F341E7}|MunsonPickles.Api\\MunsonPickles.Api.csproj|c:\\jinto\\azure\\azure\\munsonpickles\\munsonpickles.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{47E97C90-DA6C-AE4B-517A-48E815F341E7}|MunsonPickles.Api\\MunsonPickles.Api.csproj|solutionrelative:munsonpickles.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{47E97C90-DA6C-AE4B-517A-48E815F341E7}|MunsonPickles.Api\\MunsonPickles.Api.csproj|c:\\jinto\\azure\\azure\\munsonpickles\\munsonpickles.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47E97C90-DA6C-AE4B-517A-48E815F341E7}|MunsonPickles.Api\\MunsonPickles.Api.csproj|solutionrelative:munsonpickles.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47E97C90-DA6C-AE4B-517A-48E815F341E7}|MunsonPickles.Api\\MunsonPickles.Api.csproj|c:\\jinto\\azure\\azure\\munsonpickles\\munsonpickles.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{47E97C90-DA6C-AE4B-517A-48E815F341E7}|MunsonPickles.Api\\MunsonPickles.Api.csproj|solutionrelative:munsonpickles.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\JJ\\AppData\\Roaming\\Microsoft\\UserSecrets\\c743a913-08e5-4a36-aa09-921fabc6c6f1\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A12EB21A-BF3C-49F0-9263-9F9C4607A539}|MunsonPickles.Web\\MunsonPickles.Web.csproj|c:\\jinto\\azure\\azure\\munsonpickles\\munsonpickles.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A12EB21A-BF3C-49F0-9263-9F9C4607A539}|MunsonPickles.Web\\MunsonPickles.Web.csproj|solutionrelative:munsonpickles.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\JJ\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A12EB21A-BF3C-49F0-9263-9F9C4607A539}|MunsonPickles.Web\\MunsonPickles.Web.csproj|c:\\jinto\\azure\\azure\\munsonpickles\\munsonpickles.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A12EB21A-BF3C-49F0-9263-9F9C4607A539}|MunsonPickles.Web\\MunsonPickles.Web.csproj|solutionrelative:munsonpickles.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A12EB21A-BF3C-49F0-9263-9F9C4607A539}|MunsonPickles.Web\\MunsonPickles.Web.csproj|c:\\jinto\\azure\\azure\\munsonpickles\\munsonpickles.web\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -95,24 +91,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Extensions.cs",
-              "DocumentMoniker": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Api\\Data\\Extensions.cs",
-              "RelativeDocumentMoniker": "MunsonPickles.Api\\Data\\Extensions.cs",
-              "ToolTip": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Api\\Data\\Extensions.cs",
-              "RelativeToolTip": "MunsonPickles.Api\\Data\\Extensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T02:28:02.181Z",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Api\\Dockerfile",
+              "RelativeDocumentMoniker": "MunsonPickles.Api\\Dockerfile",
+              "ToolTip": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Api\\Dockerfile",
+              "RelativeToolTip": "MunsonPickles.Api\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-22T18:05:47.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "DBInitializer.cs",
               "DocumentMoniker": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Api\\Data\\DBInitializer.cs",
               "RelativeDocumentMoniker": "MunsonPickles.Api\\Data\\DBInitializer.cs",
@@ -125,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Review.cs",
               "DocumentMoniker": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Shared\\Models\\Review.cs",
               "RelativeDocumentMoniker": "MunsonPickles.Shared\\Models\\Review.cs",
@@ -138,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\Models\\Product.cs",
               "RelativeDocumentMoniker": "MunsonPickles.Web\\Models\\Product.cs",
@@ -151,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Shared\\Models\\Product.cs",
               "RelativeDocumentMoniker": "MunsonPickles.Shared\\Models\\Product.cs",
@@ -164,57 +160,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "MunsonPickles.Web",
               "DocumentMoniker": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\MunsonPickles.Web.csproj",
               "RelativeDocumentMoniker": "MunsonPickles.Web\\MunsonPickles.Web.csproj",
-              "ToolTip": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\MunsonPickles.Web.csproj*",
-              "RelativeToolTip": "MunsonPickles.Web\\MunsonPickles.Web.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\MunsonPickles.Web.csproj",
+              "RelativeToolTip": "MunsonPickles.Web\\MunsonPickles.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-12-22T02:25:42.179Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\Dockerfile",
-              "RelativeDocumentMoniker": "MunsonPickles.Web\\Dockerfile",
-              "ToolTip": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\Dockerfile",
-              "RelativeToolTip": "MunsonPickles.Web\\Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-22T02:25:07.335Z",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "MunsonPickles.Api\\appsettings.json",
+              "ToolTip": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Api\\appsettings.json",
+              "RelativeToolTip": "MunsonPickles.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-14T20:24:10.57Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Api\\Dockerfile",
-              "RelativeDocumentMoniker": "MunsonPickles.Api\\Dockerfile",
-              "ToolTip": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Api\\Dockerfile",
-              "RelativeToolTip": "MunsonPickles.Api\\Dockerfile",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-12-14T21:02:43.431Z"
+              "DocumentIndex": 5,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Api\\Data\\Extensions.cs",
+              "RelativeDocumentMoniker": "MunsonPickles.Api\\Data\\Extensions.cs",
+              "ToolTip": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Api\\Data\\Extensions.cs",
+              "RelativeToolTip": "MunsonPickles.Api\\Data\\Extensions.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA4wAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T02:28:02.181Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 2,
               "Title": "secrets.json",
               "DocumentMoniker": "C:\\Users\\JJ\\AppData\\Roaming\\Microsoft\\UserSecrets\\c743a913-08e5-4a36-aa09-921fabc6c6f1\\secrets.json",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\JJ\\AppData\\Roaming\\Microsoft\\UserSecrets\\c743a913-08e5-4a36-aa09-921fabc6c6f1\\secrets.json",
               "ToolTip": "C:\\Users\\JJ\\AppData\\Roaming\\Microsoft\\UserSecrets\\c743a913-08e5-4a36-aa09-921fabc6c6f1\\secrets.json",
               "RelativeToolTip": "..\\..\\..\\..\\Users\\JJ\\AppData\\Roaming\\Microsoft\\UserSecrets\\c743a913-08e5-4a36-aa09-921fabc6c6f1\\secrets.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-14T20:28:43.753Z"
+              "WhenOpened": "2025-12-14T20:28:43.753Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Api\\Program.cs",
               "RelativeDocumentMoniker": "MunsonPickles.Api\\Program.cs",
@@ -222,19 +220,7 @@
               "RelativeToolTip": "MunsonPickles.Api\\Program.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAAABwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-14T20:24:23.742Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "MunsonPickles.Api\\appsettings.json",
-              "ToolTip": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Api\\appsettings.json",
-              "RelativeToolTip": "MunsonPickles.Api\\appsettings.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-14T20:24:10.57Z",
+              "WhenOpened": "2025-12-14T20:24:23.742Z",
               "EditorCaption": ""
             },
             {
@@ -251,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "App.razor",
               "DocumentMoniker": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\App.razor",
               "RelativeDocumentMoniker": "MunsonPickles.Web\\App.razor",
@@ -263,19 +249,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\Program.cs",
               "RelativeDocumentMoniker": "MunsonPickles.Web\\Program.cs",
-              "ToolTip": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\Program.cs",
-              "RelativeToolTip": "MunsonPickles.Web\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAABSwBsAAAAwAAAAAAAAAA==",
+              "ToolTip": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\Program.cs*",
+              "RelativeToolTip": "MunsonPickles.Web\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-12T02:56:52.831Z"
+              "WhenOpened": "2025-12-12T02:56:52.831Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\appsettings.json",
               "RelativeDocumentMoniker": "MunsonPickles.Web\\appsettings.json",
@@ -283,11 +270,12 @@
               "RelativeToolTip": "MunsonPickles.Web\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-12-12T02:56:43.516Z"
+              "WhenOpened": "2025-12-12T02:56:43.516Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "MainLayout.razor",
               "DocumentMoniker": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\Shared\\MainLayout.razor",
               "RelativeDocumentMoniker": "MunsonPickles.Web\\Shared\\MainLayout.razor",
@@ -299,7 +287,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "plan-57658482-16d4-45c8-9e34-dd25b3dc5182.md",
               "DocumentMoniker": "C:\\Users\\JJ\\AppData\\Local\\Temp\\VisualStudio\\copilot-vs\\plan-57658482-16d4-45c8-9e34-dd25b3dc5182.md",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\JJ\\AppData\\Local\\Temp\\VisualStudio\\copilot-vs\\plan-57658482-16d4-45c8-9e34-dd25b3dc5182.md",
@@ -311,7 +299,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "ProductDetails.razor",
               "DocumentMoniker": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\Pages\\ProductDetails.razor",
               "RelativeDocumentMoniker": "MunsonPickles.Web\\Pages\\ProductDetails.razor",
@@ -323,7 +311,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "LoginDisplay.razor",
               "DocumentMoniker": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\Shared\\LoginDisplay.razor",
               "RelativeDocumentMoniker": "MunsonPickles.Web\\Shared\\LoginDisplay.razor",
@@ -336,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "WriteReview.razor",
               "DocumentMoniker": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\Components\\WriteReview.razor",
               "RelativeDocumentMoniker": "MunsonPickles.Web\\Components\\WriteReview.razor",
@@ -348,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "ReviewService.cs",
               "DocumentMoniker": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\Services\\ReviewService.cs",
               "RelativeDocumentMoniker": "MunsonPickles.Web\\Services\\ReviewService.cs",
@@ -360,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "DBInitializer.cs",
               "DocumentMoniker": "C:\\Jinto\\Azure\\Azure\\MunsonPickles\\MunsonPickles.Web\\Data\\DBInitializer.cs",
               "RelativeDocumentMoniker": "MunsonPickles.Web\\Data\\DBInitializer.cs",

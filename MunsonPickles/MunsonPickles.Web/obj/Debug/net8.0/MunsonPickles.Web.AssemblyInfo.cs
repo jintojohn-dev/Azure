@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MunsonPickles.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d87d96953e1d7bb5a66c77b373f4ea547816e384")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf3d7c1b55d30b597121e5b99c1b2305d68fe351")]
 [assembly: System.Reflection.AssemblyProductAttribute("MunsonPickles.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MunsonPickles.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
