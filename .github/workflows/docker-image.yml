@@ -22,7 +22,10 @@ jobs:
         login-server: ${{ secrets.AZR_LOGIN_SERVER }}
         username: ${{ secrets.AZR_USERNAME }}
         password: ${{ secrets.AZR_PASSWORD }}
-    - name: "Build and Push Container Image"
+    - name: Build Docker Image
       run: |
-        docker build -f MunsonPickles/MunsonPickles.Api/Dockerfile -t ${{ secrets.ACR_LOGIN_SERVER }}/munsonpickles/munsonpickles.api:latest .
-        docker push ${{ secrets.AZR_LOGIN_SERVER }}/munsonpickles/munsonpickles.api:latest
+        docker build -f MunsonPickles/MunsonPickles.Api/Dockerfile \ -t ${{ secrets.ACR_LOGIN_SERVER }}/munsonpickles/munsonpickles.api:latest .
+
+    - name: Push Docker Image
+      run: |
+        docker push ${{ secrets.ACR_LOGIN_SERVER }}/munsonpickles/munsonpickles.api:latest
