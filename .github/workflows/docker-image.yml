@@ -29,3 +29,20 @@ jobs:
     - name: Push Docker Image
       run: |
         docker push ${{ secrets.AZR_LOGIN_SERVER }}/munsonpickles/munsonpickles.api:latest
+
+    - name: Configure Web App to Pull Docker Image from ACR
+      run: |
+        az webapp config container set \
+          --name ${{ secrets.WEB_APP_NAME }} \
+          --resource-group ${{ secrets.RESOURCE_GROUP }} \
+          --container-image-name "${{ secrets.AZR_LOGIN_SERVER }}/munsonpickles/munsonpickles.api:latest" \
+          --container-registry-url "https://${{ secrets.AZR_LOGIN_SERVER }}" \
+          --container-registry-user ${{ secrets.AZR_USERNAME }} \
+          --container-registry-password ${{ secrets.AZR_PASSWORD }}
+
+    - name: Restart Web App
+      run: |
+        az webapp restart \
+          --name ${{ secrets.WEB_APP_NAME }} \
+          --resource-group ${{ secrets.RESOURCE_GROUP }}
+
